@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-- **Clone the repo by running `git clone` https://github.com/Shaher-11/tic_tac_toe Or download the zip folder**
+- **Clone the repo by running `git clone`  Or download the zip folder**
 - **Run `cd` tic_tac_toe in the terminal**
 - **Make sure you have ruby installed locally run `ruby -v`**
 - **To start the game run ```bin/main.rb``` in the terminal**
@@ -27,7 +27,7 @@
 
 ## Live Demo
 
-[PLay Now](https://replit.com/@ShaherShamroukh/tictactoe#bin/main)
+[PLay Now]()
 
 ## Live demo usage instruction
 
@@ -37,17 +37,6 @@
 
 ## Authors
 
-👤 **Shaher**
-
-- Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shaher-shamroukh/)
-- GitHub: [@githubhandle](https://github.com/Shaher-11/)
-
-👤 **Addis**
-
-- GitHub: [@Addis0943](https://github.com/Addis0943)
-- Twitter: [@Addis32018084](https://twitter.com/Addis32018084)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/addis-belete-134b98191)
 
 ## 🤝 Contributing
 
